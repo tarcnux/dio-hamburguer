@@ -82,4 +82,7 @@ body {
     opacity: 1;
     visibility: visible;
     font-size: 14px;
+    background-color: aliceblue;
+    color: black;
+    padding: 10px;;
 }
